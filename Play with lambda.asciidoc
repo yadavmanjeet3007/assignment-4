@@ -1,0 +1,23 @@
++*In[2]:*+
+[source, ipython3]
+----
+y=lambda x:x+25
+----
+
+
++*In[4]:*+
+[source, ipython3]
+----
+y(10)
+----
+
+
++*Out[4]:*+
+----35----
+
+
++*In[ ]:*+
+[source, ipython3]
+----
+
+----
